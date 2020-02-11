@@ -1,7 +1,7 @@
 # a - Will append to the end of the file
 # w - Will overwrite any existing content
 
-file_name = 'data.txt'
+file_name = '.\d2-3_2_flask_intro-2\data.txt'
 
   # with open(file_name, 'w') as f:       
   #     f.write(line)
